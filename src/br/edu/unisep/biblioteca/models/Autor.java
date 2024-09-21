@@ -1,4 +1,4 @@
-package Biblioteca.Models;
+package br.edu.unisep.biblioteca.models;
 
 public class Autor {
     private int idAutor;

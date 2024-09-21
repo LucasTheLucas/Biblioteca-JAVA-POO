@@ -1,4 +1,4 @@
-package Biblioteca.Models;
+package br.edu.unisep.biblioteca.models;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
