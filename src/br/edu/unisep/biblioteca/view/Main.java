@@ -1,9 +1,9 @@
-package Biblioteca.View;
+package br.edu.unisep.biblioteca.view;
 
-import Biblioteca.Models.Autor;
-import Biblioteca.Models.Emprestimo;
-import Biblioteca.Models.Livro;
-import Biblioteca.Models.Usuario;
+import br.edu.unisep.biblioteca.models.Autor;
+import br.edu.unisep.biblioteca.models.Emprestimo;
+import br.edu.unisep.biblioteca.models.Livro;
+import br.edu.unisep.biblioteca.models.Usuario;
 
 import javax.swing.*;
 import java.util.ArrayList;
